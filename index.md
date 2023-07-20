@@ -146,7 +146,7 @@ workshop is only open to people from a particular institution.
 <div style="display: flex"><div>
      <strong>Who:&nbsp;</strong>
      </div>
-     <div markdown=1>{% remote_include {{lesson_meta}}/who.md %}</div></div>
+     <div markdown=1>{% remote_include {{lesson_meta}}/who_with_quizlink.md %}</div></div>
 {% endif %}
 
 {% comment %}
